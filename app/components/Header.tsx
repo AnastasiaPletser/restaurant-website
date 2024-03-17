@@ -28,9 +28,9 @@ export default function Header() {
 <h1 className="logo me-auto me-lg-0">
     <a href="/">Restauran</a>
 </h1>
-      {/* <a href="index.html" className="logo me-auto me-lg-0">
+      <a href="index.html" className="logo me-auto me-lg-0">
         <img src='asserts/img/logo.png' alt='' className='img-fluid'/>
-      </a> */}
+      </a>
         <Nav/>
       <AppBtn name = 'book a table'/>
         </div>

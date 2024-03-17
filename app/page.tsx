@@ -1,5 +1,5 @@
 import Hero from "./sections/Hero";
-// import About from "./sections/About";
+ import About from "./sections/About";
 import WhyUs from "./sections/WhyUs";
 
 export default function Home() {
@@ -7,7 +7,7 @@ export default function Home() {
     <>
     <Hero/>
     <main id='main'>
-      {/* <About/> */}
+       <About/> 
       <WhyUs/>
     </main>
     </>

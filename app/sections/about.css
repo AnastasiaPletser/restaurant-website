@@ -6,6 +6,10 @@ about {
     background-size: cover;
     position: relative;
     padding: 80px 0;
+    display: flex;
+}
+#row {
+    display: flex;
 }
 
     .about:before {
