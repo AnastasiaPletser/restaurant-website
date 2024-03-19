@@ -1,6 +1,7 @@
 import Hero from "./sections/Hero";
  import About from "./sections/About";
 import WhyUs from "./sections/WhyUs";
+import Menu from "./sections/Menu";
 
 export default function Home() {
   return (
@@ -9,6 +10,7 @@ export default function Home() {
     <main id='main'>
        <About/> 
       <WhyUs/>
+      <Menu />
     </main>
     </>
   );
