@@ -25,6 +25,7 @@ export default function SpecialsItem({
           <p>{item.content}</p>
         </div>
         <div className="col-lg-4 text-center order-1 order-lg-2">
+         
           <img src={item.image} alt="" className="img-fluid" />
         </div>
       </div>
